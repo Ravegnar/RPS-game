@@ -1,0 +1,2 @@
+*,:after,:before{box-sizing:border-box}body{background:linear-gradient(90deg,#780dbe,#36a4ff);color:#fff;margin:0}#playboard{display:grid;justify-content:center;margin-top:2rem}td{background-color:rgba(0,0,255,.24);height:50px;padding:10px;width:50px}.pingl{background-color:#6900a7}.move,.pingl{cursor:pointer}.move{background-color:rgba(0,204,255,.473)}
+/*# sourceMappingURL=main.da87d391.css.map*/

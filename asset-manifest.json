@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/RPS-game/static/css/main.073c9b0a.css",
-    "main.js": "/RPS-game/static/js/main.3bbb350f.js",
-    "static/js/787.f0d309e9.chunk.js": "/RPS-game/static/js/787.f0d309e9.chunk.js",
-    "static/media/logo.svg": "/RPS-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/RPS-game/static/css/main.da87d391.css",
+    "main.js": "/RPS-game/static/js/main.93fb7d7e.js",
     "index.html": "/RPS-game/index.html",
-    "main.073c9b0a.css.map": "/RPS-game/static/css/main.073c9b0a.css.map",
-    "main.3bbb350f.js.map": "/RPS-game/static/js/main.3bbb350f.js.map",
-    "787.f0d309e9.chunk.js.map": "/RPS-game/static/js/787.f0d309e9.chunk.js.map"
+    "main.da87d391.css.map": "/RPS-game/static/css/main.da87d391.css.map",
+    "main.93fb7d7e.js.map": "/RPS-game/static/js/main.93fb7d7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3bbb350f.js"
+    "static/css/main.da87d391.css",
+    "static/js/main.93fb7d7e.js"
   ]
 }
