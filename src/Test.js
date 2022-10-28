@@ -126,3 +126,27 @@ export default function Td(props) {
           </section>
       </>)
     }
+
+
+            //moves
+        } else if (count == moveUp) {
+            if (prevFieldStatus === "e") {
+              console.log(prevFieldStatus)
+              return "m" 
+            }
+          } else if (count == moveDown) {
+            if (prevFieldStatus === "e") {
+              console.log(prevFieldStatus)
+              return "m" 
+            }
+          } else if (count == moveLeft) {
+            if (prevFieldStatus === "e") {
+              console.log(prevFieldStatus)
+              return "m" 
+            }
+          } else if (count == moveRight) {
+            if (prevFieldStatus === "e") {
+              console.log(prevFieldStatus)
+              return "m" 
+            }
+            //end
