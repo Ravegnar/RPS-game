@@ -1,16 +1,15 @@
 import Field from './Field.js';
 
-export default function Playboard(props) {
-    const {fieldStatus, onProductDelete} = props
+export default function Playboard({statuses, onAction}) {
 
     return (
         <section id="playboard">
-            {fieldStatus.map((field, index) => (
+            {statuses.map((status, index) => (
                 <Field
                     id={index}
                     key={index}
-                    fieldStatus={fieldStatus}
-                    onProductDelete={onProductDelete}
+                    status={status}
+                    onAction={onAction}
                 ></Field>
             ))}
         </section>
